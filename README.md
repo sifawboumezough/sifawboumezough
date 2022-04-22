@@ -46,7 +46,7 @@ I Love Javascript and PHP
 <!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 ## Design
 <!-- ![Figma](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white) -->
-![Adobe xd](https://img.shields.io/badge/Adobe-xd-31A8FF?style=for-the-badge&logo=Adobe xd&logoColor=white)
+![Adobe xd](https://img.shields.io/badge/Adobe-xd-31A8FF?style=for-the-badge&logo=Adobexd&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe-Illustrator-31A8FF?style=for-the-badge&logo=Adobe-Adobe-Illustrator&logoColor=white)
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 ## Version Control
