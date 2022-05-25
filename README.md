@@ -16,12 +16,6 @@
 I am Sifaw, I’m a passionate Full Stack developer from Morocco.
 <!-- I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code. -->
 You can check out some of my projects you can reach out in the links below.  
-
-## 💫 What programming languages I like
-
-I Love Javascript and PHP  
-<h5>⭐️Languages and Tools</h5>
-
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
